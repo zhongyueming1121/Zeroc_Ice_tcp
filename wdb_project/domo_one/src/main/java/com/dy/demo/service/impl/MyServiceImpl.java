@@ -11,7 +11,7 @@ public class MyServiceImpl extends _MyServicePrxI{
 	
 	@Override
 	public String hello() {
-		return "第一个ice项目";
+		return "第一个ice项目"; 
 	}
 	
 }
